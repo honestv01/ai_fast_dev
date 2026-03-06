@@ -20,10 +20,10 @@
     'https://s.wordpress.com/mshots/v1/https://checkmate.health/?w=1200',
     'https://s.wordpress.com/mshots/v1/https://recovery.com/?w=1200',
     'https://s.wordpress.com/mshots/v1/https://restaurant-pi-sandy-51.vercel.app/?w=1200',
-    'https://s.wordpress.com/mshots/v1/https://www.oraion.com/?w=1200',
-    'https://s.wordpress.com/mshots/v1/https://www.getpantera.com/?w=1200',
-    'https://s.wordpress.com/mshots/v1/https://anova.ai/?w=1200',
-    'https://s.wordpress.com/mshots/v1/https://creatify.ai/?w=1200',
+    'https://framerusercontent.com/images/ROHxKCvGww82F83RY186MA7jOw.png',
+    'https://cdn.prod.website-files.com/687d2805d47bdb3835273501/687d3b1f1d2ba69ecde329d6_WEB%20MONTAJE-03.webp',
+    'https://anova.ai/wp-content/uploads/anova_logo_light.png',
+    'https://framerusercontent.com/images/TgChUK1aY2jQPdEqwo8nSU3rllI.png',
   ],
 };
 
@@ -226,7 +226,7 @@ export const skills: Skill[] = [
 export const processSteps = [
   {
     title: 'Discover & Define',
-    description: 'I start by deeply understanding your vision. What problem are you solving? Who are your users? I translate your ideas into clear technical requirements â€” no jargon, just clarity.',
+    description: 'I start by deeply understanding your vision. What problem are you solving? Who are your users? I translate your ideas into clear technical requirements - no jargon, just clarity.',
     image: IMAGES.process[0],
   },
   {
@@ -236,7 +236,7 @@ export const processSteps = [
   },
   {
     title: 'Build & Refine',
-    description: 'I leverage AI to accelerate development while maintaining code quality. Every feature is hand-reviewed, tested, and optimized. AI assists â€” I architect.',
+    description: 'I leverage AI to accelerate development while maintaining code quality. Every feature is hand-reviewed, tested, and optimized. AI assists - I architect.',
     image: IMAGES.process[2],
   },
   {
@@ -256,7 +256,7 @@ export const testimonials = [
   {
     name: 'Marcus Williams',
     role: 'CTO, DataStream',
-    text: 'Working with Victor was a game-changer. He delivered a complex analytics dashboard that would have taken our team months â€” in just three weeks.',
+    text: 'Working with Victor was a game-changer. He delivered a complex analytics dashboard that would have taken our team months - in just three weeks.',
     avatar: 'MW',
   },
   {

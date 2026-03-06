@@ -6,7 +6,7 @@ const values = [
   {
     icon: Zap,
     title: 'Speed Without Compromise',
-    description: 'AI lets me deliver in weeks what used to take months â€” without cutting corners on quality or security.',
+    description: 'AI lets me deliver in weeks what used to take months - without cutting corners on quality or security.',
   },
   {
     icon: Users,
@@ -77,19 +77,19 @@ const About: React.FC = () => {
 
             <div className="space-y-4 text-slate-400 text-lg leading-relaxed mb-10">
               <p>
-                I'm Victor Beaumont â€” a full-stack developer who discovered that AI isn't just a tool, 
+                I'm Victor Beaumont - a full-stack developer who discovered that AI isn't just a tool, 
                 it's a multiplier. Over the past few years, I've built 40+ production applications 
                 using AI-assisted development, and I've seen firsthand how it transforms what's possible.
               </p>
               <p>
                 But here's what drives me: <span className="text-white font-medium">most people can't access this power</span>. 
-                Non-technical founders, small business owners, creative professionals â€” they have incredible 
+                Non-technical founders, small business owners, creative professionals - they have incredible 
                 ideas but struggle to navigate the AI development landscape. That's where I come in.
               </p>
               <p>
                 I don't just build products. I bridge the gap between human vision and AI capability, 
                 translating complex technical decisions into clear, understandable choices. My clients 
-                don't need to know what a REST API is â€” they just need to know their product works.
+                don't need to know what a REST API is - they just need to know their product works.
               </p>
             </div>
 
